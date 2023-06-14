@@ -1,0 +1,15 @@
+Test2
+
+#March 2022,A budget for the month March,31,0.0
+Food,200.0
+Rent,500.0
+
+#April 2022,A budget for the month April,30,0.0
+
+#May 2022,A budget for the month May,31,0.0
+
+#June 2022,A budget for the month June,30,0.0
+
+#July 2022,A budget for the month July,31,0.0
+
+#August 2022,A budget for the month August,31,0.0
